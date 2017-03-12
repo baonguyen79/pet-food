@@ -1,0 +1,21 @@
+
+#dog-food-container , #cat-food-container{
+	font-size: 1.5em;
+	font-weight: bolder;
+	background-color: lightblue;
+	width: 30%;
+}
+
+
+.brand {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+ .brand li  {
+	font-size: .9em;
+	font-weight: normal;
+	/*background-color: yellow;*/
+}
+
+
